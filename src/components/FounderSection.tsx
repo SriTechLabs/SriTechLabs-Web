@@ -1,4 +1,4 @@
-import React from "react";
+ 
 import { motion } from "framer-motion";
 import { UserIcon } from "@heroicons/react/24/outline";
 

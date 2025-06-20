@@ -12,6 +12,7 @@ import Services from "./pages/Services";
 import Careers from "./pages/Careers";
 import Contact from "./pages/Contact";
 import NotFound from "./pages/NotFound";
+// import Blog from "./pages/Blog";
 
 export default function App() {
   return (
@@ -26,6 +27,8 @@ export default function App() {
             <Route path="/services" element={<Services />} />
             <Route path="/careers" element={<Careers />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="/careers" element={<Careers />} />
+            {/* <Route path="/blog" element={<Blog />} /> */}
             <Route path="*" element={<NotFound />} />
           </Routes>
         </div>

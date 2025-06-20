@@ -1,5 +1,4 @@
- 
-import { motion } from "framer-motion";
+ import { motion } from "framer-motion";
 import { BriefcaseIcon } from "@heroicons/react/24/outline";
 
 const careers = [

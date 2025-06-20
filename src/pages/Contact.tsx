@@ -1,5 +1,4 @@
- 
-import { motion } from "framer-motion";
+ import { motion } from "framer-motion";
 import ContactSection from "../components/ContactSection";
 
 export default function Contact() {

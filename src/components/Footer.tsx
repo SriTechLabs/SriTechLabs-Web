@@ -29,8 +29,8 @@ export default function Footer() {
         <div>
           <h3 className="text-md font-semibold mb-2">Contact</h3>
           <ul className="text-sm space-y-1">
-            <li>Email: <a href="mailto:contact@sritechlabs.in" className="hover:text-blue-600">contact@sritechlabs.in</a></li>
-            <li>Phone: <a href="tel:+919876543210" className="hover:text-blue-600">+91-98765-43210</a></li>
+            <li>Email: <a href="mailto:contact@sritechlabs.in" className="hover:text-blue-600">coming soon</a></li>
+            <li>Phone: <a href="tel:+9" className="hover:text-blue-600">coming soon</a></li>
             <li>Location: Bengaluru, India</li>
           </ul>
         </div>

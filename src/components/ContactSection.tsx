@@ -28,11 +28,11 @@ export default function ContactSection() {
           >
             <div>
               <h4 className="font-semibold text-gray-800">Email</h4>
-              <p className="text-blue-600">contact@sritechlabs.in</p>
+              <p className="text-blue-600">Coming Soon</p>
             </div>
             <div>
               <h4 className="font-semibold text-gray-800">Phone</h4>
-              <p className="text-blue-600">+91 98765 43210</p>
+              <p className="text-blue-600">coming soon</p>
             </div>
             <div>
               <h4 className="font-semibold text-gray-800">Location</h4>
